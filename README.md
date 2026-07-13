@@ -102,18 +102,24 @@ using **Microsoft Power BI Desktop**.
 
 ## 📊 Dashboard Preview
 
-> Add screenshots here.
+![Dashboard Overview](https://github.com/Jatin22sharma/bluestock_mf_capstone/blob/main/dashboard/Project_screenshots/Industry%20Overview.png)
+
+![Fund Performance](https://github.com/Jatin22sharma/bluestock_mf_capstone/blob/main/dashboard/Project_screenshots/Fund%20Performance.png)
+
+![Inevstor Analytics](https://github.com/Jatin22sharma/bluestock_mf_capstone/blob/main/dashboard/Project_screenshots/Investor%20Analytics.png)
+
+![SIP & Makret Trends](https://github.com/Jatin22sharma/bluestock_mf_capstone/blob/main/dashboard/Project_screenshots/SIP%20%26%20Market%20Trends.png)
 
 Example:
 
 ```markdown
-![Dashboard Overview](dashboard/screenshots/dashboard_overview.png)
+![Dashboard Overview](https://github.com/Jatin22sharma/bluestock_mf_capstone/blob/main/dashboard/Project_screenshots/Industry%20Overview.png)
 
-![Fund Performance](dashboard/screenshots/fund_performance.png)
+![Fund Performance](https://github.com/Jatin22sharma/bluestock_mf_capstone/blob/main/dashboard/Project_screenshots/Fund%20Performance.png)
 
-![Risk Analytics](dashboard/screenshots/risk_analytics.png)
+![Inevstor Analytics](https://github.com/Jatin22sharma/bluestock_mf_capstone/blob/main/dashboard/Project_screenshots/Investor%20Analytics.png)
 
-![Investor Insights](dashboard/screenshots/investor_insights.png)
+![SIP & Makret Trends](https://github.com/Jatin22sharma/bluestock_mf_capstone/blob/main/dashboard/Project_screenshots/SIP%20%26%20Market%20Trends.png)
 ```
 
 ---
